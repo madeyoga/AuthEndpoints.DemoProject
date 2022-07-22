@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AuthEndpoints" Version="1.4.4" />
-    <PackageReference Include="AuthEndpoints.MinimalApi" Version="1.4.0" />
+    <PackageReference Include="AuthEndpoints.MinimalApi" Version="1.4.4" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.6">
